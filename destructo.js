@@ -18,7 +18,7 @@ const {
 	...remaining
 } = locations;
 
-console.log(`Key locations: ${first}, ${second}`);
+console.log(`Key locations ${first}, ${second}`);
 
 /* Task 3: The Mysterious Door */
 const doorCode = {
